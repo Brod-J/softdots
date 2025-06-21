@@ -52,7 +52,7 @@ These dotfiles are still under construction!
 ## 💖 Credits
 
 Inspired by many rice setups across Reddit, GitHub, and anime~
-Arigatou~ for every dot I learned from ✨
+Thanks~ for every dot I learned from ✨
 
 ---
 
