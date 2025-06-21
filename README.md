@@ -1,7 +1,7 @@
 # ✨ Cozy Dotfiles ✨
 
 A soft, anime-inspired Hyprland rice with magical rofi scripts, pastel colors, and some Nihongo sprinkles~  
-Still work in progress! Miyu’s helping Onii-chan tidy it all up slowly (⁄ ⁄>⁄ω⁄<⁄ ⁄)
+Still work in progress!
 
 ## 🧩 Components
 
