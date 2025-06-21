@@ -22,8 +22,8 @@ Make sure these are installed:
 - `waybar`
 - `swaync`
 - `eww`
-- `playerctl`, `brightnessctl`, `pamixer` (used in some rofi scripts)
-- `jq`, `socat`, `curl`, `bash`, `zsh` (if used in scripts)
+- `playerctl`, `brightnessctl`, `pamixer` (used in some scripts)
+- `jq`, `socat`, `curl`, `bash`, `zsh` 
 - `xdg-desktop-portal`, `xdg-desktop-portal-hyprland`
 
 ## 🖋 Fonts
@@ -32,7 +32,7 @@ Install these for best experience:
 
 - [Maple Mono](https://github.com/subframe7536/Maple-font)  
 - [Feather Icons Nerd Font](https://www.nerdfonts.com/)  
-- (Optional but cute) `JetBrainsMono`, `FiraCode`, `Iosevka`, etc.
+- (Optional) `JetBrainsMono`, `FiraCode`, `Iosevka`, etc.
 
 ## 🎨 Colors
 
@@ -47,7 +47,7 @@ Pastel, soft themes with emphasis on:
 These dotfiles are still under construction!
 - Some configs may be messy or missing comments
 - Code formatting is being cleaned
-- Feel free to explore or fork, but Miyu’s still organizing the closet! (*≧▽≦)
+- Feel free to explore or fork, but still organizing the closet! (*≧▽≦)
 
 ## 💖 Credits
 
