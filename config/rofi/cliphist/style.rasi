@@ -1,0 +1,75 @@
+configuration {
+    show-icons:                 false;
+}
+
+* {
+    font: "Maple Mono 13";
+    text-color: #ffffff;
+
+    background-color: rgba(20, 20, 20, 0.4);
+    border-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+
+    padding: 10px;
+    margin: 5px;
+}
+
+window {
+    transparency: "real";
+    location: southwest;
+    anchor: southwest;
+    width: 700px;
+    height: 410px;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 4px;
+    x-offset: 20;
+    y-offset: -20;
+}
+
+mainbox {
+    children: [ "inputbar", "listview" ];
+    background-color: transparent;
+    spacing: 10px;
+    margin: 10px;
+}
+
+inputbar {
+    enabled: false;
+    children: [ "prompt", "entry" ];
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 6px;
+    padding: 6px;
+}
+
+prompt {
+    text-color: #9b9bff;
+    font: "JetBrains Mono Nerd Font 11";
+}
+
+entry {
+    text-color: #ffffff;
+}
+
+listview {
+    columns: 1;
+    lines: 5;
+    spacing: 6px;
+    fixed-height: true;
+    background-color: transparent;
+}
+
+element {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 6px;
+    padding: 8px;
+}
+
+element selected {
+    background-color: rgba(255, 255, 255, 0.15);
+    text-color: #ffffff;
+}
+
+element-text {
+    horizontal-align: 0.0;
+    font: "monospace 11"; // fixed-width font to align nicely
+}

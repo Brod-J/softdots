@@ -1,6 +1,6 @@
 # ✨ Cozy Dotfiles ✨
 
-A soft, anime-inspired Hyprland rice with magical rofi scripts, pastel colors, and some Nihongo sprinkles~  
+A soft, anime-inspired Hyprland rice with rofi scripts, pastel colors, and some Nihongo~  
 Still work in progress!
 
 ## 🧩 Components
@@ -18,7 +18,7 @@ Still work in progress!
 Make sure these are installed:
 
 - `hyprland`
-- `rofi`
+- `rofi` I used the wayland version
 - `waybar`
 - `swaync`
 - `eww`
@@ -30,9 +30,11 @@ Make sure these are installed:
 
 Install these for best experience:
 
-- [Maple Mono](https://github.com/subframe7536/Maple-font)  
+- Used for the whole theme [Maple Mono](https://github.com/subframe7536/Maple-font)  
+I tested paru but for some reason it did not work as terminal font.
+so i had to delete it then downloaded TTF, CN (both are needed) from releases and mv them to /usr/share/fonts 
 - [Feather Icons Nerd Font](https://www.nerdfonts.com/)  
-- (Optional) `JetBrainsMono`, `FiraCode`, `Iosevka`, etc.
+- (Optional) `JetBrainsMono`, `Iosevka`, etc.
 
 ## 🎨 Colors
 
@@ -54,6 +56,7 @@ These dotfiles are still under construction!
 Inspired by many rice setups across Reddit, GitHub, and anime~
 Thanks~ for every dot I learned from ✨
 
+**Art by [凯留Karyl on Pixiv (Artwork ID: 100680993)](https://www.pixiv.net/en/artworks/100680993)**
 ---
 
 > *"Just another cozy rice made with love~"*  
