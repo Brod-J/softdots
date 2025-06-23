@@ -3,7 +3,7 @@ configuration {
 }
 
 * {
-    font: "JetBrains Mono Nerd Font 16";
+    font: "Maple Mono 13";
     text-color: #ffffff;
 
     background-color: rgba(20, 20, 20, 0.4);
