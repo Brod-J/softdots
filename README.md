@@ -60,3 +60,18 @@ Thanks~ for every dot I learned from ✨
 ---
 
 > *"Just another cozy rice made with love~"*  
+
+## 📸 Screenshots
+
+### ✿ Main Desktop
+![desktop](Pictures/Screenshots/desktop.png)
+
+### ✿ Windows
+![windows](Pictures/Screenshots/windows.png)
+
+### ✿ Terminal
+![terminal](Pictures/Screenshots/terminal.png)
+
+### ✿ Rofi Menus
+![launcher](Pictures/Screenshots/launcher.png)
+![powermenu](Pictures/Screenshots/powermenu.png)
